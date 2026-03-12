@@ -67,7 +67,7 @@ const Quiz = () => {
   };
 
   const handlePurchase = () => {
-    window.location.href = "https://pay.hotmart.com/L104149792V?off=14ld4n0i&checkoutMode=10";
+    window.location.href = "https://pay.hotmart.com/T104695297D?off=ledfmhem&checkoutMode=10";
   };
 
   const handleDecline = () => {
