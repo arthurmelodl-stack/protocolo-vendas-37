@@ -65,11 +65,7 @@ const faqs = [
   },
   {
     question: "¿Es un curso o un ebook?",
-    answer: "Es un protocolo de implementación rápida que combina lo mejor de ambos formatos.
-
-Al ingresar, tendrás acceso a clases en video grabadas donde te comparto mi pantalla y te muestro exactamente dónde hacer clic para configurar tu campaña desde cero. Además, incluye guías estratégicas en PDF (como el Mapa de Audiencias y la Máquina de Upsell) y plantillas listas para usar.
-
-No es un curso lleno de teoría aburrida ni un simple libro para leer; es un ecosistema diseñado para que copies, pegues y veas resultados en tu WhatsApp lo más rápido posible.",
+    answer: "Es un protocolo de implementación rápida que combina lo mejor de ambos formatos. Al ingresar, tendrás acceso a clases en video grabadas donde te comparto mi pantalla y te muestro exactamente dónde hacer clic para configurar tu campaña desde cero. Además, incluye guías estratégicas en PDF (como el Mapa de Audiencias y la Máquina de Upsell) y plantillas listas para usar. No es un curso lleno de teoría aburrida ni un simple libro para leer; es un ecosistema diseñado para que copies, pegues y veas resultados en tu WhatsApp lo más rápido posible.",
   },
 ];
 
