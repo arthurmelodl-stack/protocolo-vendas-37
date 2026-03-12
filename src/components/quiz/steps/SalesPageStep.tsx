@@ -39,11 +39,10 @@ interface SalesPageStepProps {
 
 const benefits = [
   "Cómo configurar tu primera campaña en menos de 2 horas (aunque nunca hayas usado Ads Manager)",
-  "Las 3 audiencias exactas que convierten para fotógrafos en LATAM",
-  "Scripts de mensajes para cerrar ventas cuando te escriban por el anuncio",
-  "Cómo responder cuando te pidan descuento (y mantener tu precio)",
+  "El Mapa de Audiencias: la segmentación y psicología exacta para 6 nichos diferentes (Bodas, Maternidad, Retratos y más) para fotógrafos en LATAM",
+  "La 'Máquina de Upsell': el método para duplicar tus ganancias vendiendo fotos extras de forma automática",
   "El presupuesto mínimo que necesitas (es menos de lo que imaginas)",
-  "Casos reales de fotógrafos que llenaron su agenda en 30 días",
+  "Un Checklist Interactivo de configuración para evitar errores técnicos antes de publicar tu campaña",
   "Plantillas de anuncios listas para copiar y pegar",
 ];
 
@@ -66,7 +65,11 @@ const faqs = [
   },
   {
     question: "¿Es un curso o un ebook?",
-    answer: "Es un ebook completo (PDF) con paso a paso, plantillas y ejemplos reales.",
+    answer: "Es un protocolo de implementación rápida que combina lo mejor de ambos formatos.
+
+Al ingresar, tendrás acceso a clases en video grabadas donde te comparto mi pantalla y te muestro exactamente dónde hacer clic para configurar tu campaña desde cero. Además, incluye guías estratégicas en PDF (como el Mapa de Audiencias y la Máquina de Upsell) y plantillas listas para usar.
+
+No es un curso lleno de teoría aburrida ni un simple libro para leer; es un ecosistema diseñado para que copies, pegues y veas resultados en tu WhatsApp lo más rápido posible.",
   },
 ];
 
