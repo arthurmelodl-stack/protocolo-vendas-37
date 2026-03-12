@@ -452,7 +452,7 @@ const SalesPageStep = ({
                 <div className="flex items-center gap-3 p-3 bg-primary/5 rounded-lg">
                   <Gift className="w-5 h-5 text-primary" />
                   <span>
-                    <strong>BÔNUS #2:</strong> 10 Templates de Anuncios Testados
+                    <strong>BÔNUS #2:</strong> La Máquina de Upsell
                     (Valor: $23)
                   </span>
                 </div>
